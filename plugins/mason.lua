@@ -10,7 +10,7 @@ return {
         "pylsp",
         "html",
         "cssls",
-        "quick_lint_js",
+        "lua_ls",
       })
     end,
   },
@@ -28,6 +28,7 @@ return {
         "mypy",
 
         "djlint",
+        "quick_lint_js",
       })
     end,
   },
