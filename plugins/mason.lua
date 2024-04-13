@@ -12,6 +12,7 @@ return {
         "cssls",
         "lua_ls",
         "elixirls",
+        "clangd",
       })
     end,
   },
