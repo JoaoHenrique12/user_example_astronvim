@@ -6,7 +6,8 @@ return {
       "lua",
       "python",
       "elixir",
-      "cpp"
+      "cpp",
+      "go"
     })
   end,
 }

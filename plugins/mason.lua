@@ -13,6 +13,7 @@ return {
         "lua_ls",
         "elixirls",
         "clangd",
+        "gopls"
       })
     end,
   },
