@@ -7,7 +7,8 @@ return {
       "python",
       "elixir",
       "cpp",
-      "go"
+      "go",
+      "gomod"
     })
   end,
 }
