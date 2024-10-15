@@ -8,6 +8,8 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.syntax.vim-easy-align" },
   { import = "astrocommunity.code-runner.compiler-nvim" },
